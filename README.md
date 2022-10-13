@@ -2,6 +2,7 @@
 
 Physics 444 Introduction to Cosmology at Rutgers University
 
+###  Course Description:
 Expansion of the universe, techniques for distance estimation. Large-scale structure of universe. Cosmological models: open, closed, flat and accelerating universes. Microwave background: observations, properties and origin. Problems of standard cosmology and preliminary concept of inflation.
 
 
